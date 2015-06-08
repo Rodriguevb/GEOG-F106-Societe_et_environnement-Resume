@@ -1,7 +1,7 @@
-# Résumé du cours GEOGF106 - Societé et environnement.
+# Résumé du cours GEOG-F106 - Societé et environnement.
 
 ## Qu'est-ce donc ce répertoire ?
-Ce répertoire contient le résumé en PDF (via LaTeX) du cours GEOGF106 - Societé et environnement de l'Université Libre de Bruxelles. Ce résumé dispose de la même table des matières que le cours (dans la mesure du possible).
+Ce répertoire contient le résumé en PDF (via LaTeX) du cours GEOG-F106 - Societé et environnement de l'Université Libre de Bruxelles. Ce résumé dispose de la même table des matières que le cours (dans la mesure du possible).
 
 ## Autres cours
 https://rodriguevb.github.io
